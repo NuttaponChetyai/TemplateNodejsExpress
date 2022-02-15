@@ -1,0 +1,13 @@
+module.exports.STAT = Object.freeze({
+    SUCCESS: 'SUCCESS',
+    ERROR: 'ERROR',
+    DATABASE_ERROR: 'DATABASE_ERROR',
+    LOGIN_ERROR: 'LOGIN_ERROR',
+    REDIS_ERROR: 'REDIS_ERROR',
+    BAD_REQUEST: 'BAD_REQUEST',
+    SAML_ERROR: 'SAML_ERROR'
+});
+
+
+
+
